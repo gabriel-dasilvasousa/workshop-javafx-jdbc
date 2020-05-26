@@ -15,7 +15,7 @@
             <Insets bottom="10.0" left="20.0" top="10.0" />
          </padding>
       </Label>
-      <Label text="JavaFX Application demo">
+      <Label text="JavaFX Application Crud with two class">
          <padding>
             <Insets left="20.0" />
          </padding>
